@@ -89,25 +89,25 @@ nav a .logo {
     flex-direction: column;
 }
 
-.signup-main .signup-right form h1 {
+.signup-main .signup-right h1 {
     color: var(--black);
     font-size: 2rem;
     font-weight: 600;
     padding-bottom: 5px;
 }
 
-.signup-main .signup-right form h1 span {
+.signup-main .signup-right h1 span {
     color: var(--primary);
 }
 
-.signup-main .signup-right form p {
+.signup-main .signup-right p {
     font-size: 1rem;
     font-weight: 400;
     color: var(--black);
     padding-bottom: 10px;
 }
 
-.signup-main .signup-right form p a {
+.signup-main .signup-right p a {
     font-weight: 600;
     color: var(--primary);
 }
